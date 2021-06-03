@@ -1,0 +1,44 @@
+.footer{
+  position: relative;
+  float: left;
+  background-color: black;
+  height: 3vw;
+  width: 100vw;
+}
+.footer p{
+  text-align: Center;
+  padding-top: 0.75vw;
+  padding-bottom: 0.75vw;
+
+  position: relative;
+  float: left;
+  width: 100vw;
+
+
+}
+.footer p a{
+  width: 100vw;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 1.5vw;
+  position: relative;
+  float: left;
+
+
+}
+
+@media only screen and (max-width: 768px){
+  .footer{
+    height: 4vw;
+  }
+  .footer p{
+    padding-top: 0.75vw;
+  
+  
+  }
+  .footer p a{
+    font-size: 2.5vw;  
+  
+  }
+  
+}
