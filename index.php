@@ -156,7 +156,7 @@
       </div>
     </div>
     <div class="footer">
-      <p><a href="https://www.instagram.com/aare_itsolutions/">&copy; AaRe IT Solutions</a> </p>
+      <p><a href="https://www.instagram.com/aare_itsolutions/">&copy; New Shindhu Electronics</a> </p>
     </div>
   </body>
 </html>
